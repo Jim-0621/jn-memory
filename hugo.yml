@@ -2,7 +2,7 @@
 # ⚠️ 这里必须填对，否则样式会乱。
 baseURL: "https://jim-0621.github.io/jn-memory/"
 languageCode: "zh-cn"
-title: "J & N 的小宇宙" # 默认标题，可随意改
+title: "J & N 的专属回忆" # 默认标题，可随意改
 description: "记录我们相识以来的点点滴滴"
 theme: "PaperMod"
 
@@ -21,7 +21,7 @@ timeZone: Asia/Shanghai
 menu:
   main:
     - identifier: timeline
-      name: "🕰️ 时光机"  # 或者用 ⏳、🚀
+      name: "🕰️ 时光机"
       url: /archives/
       weight: 1
 
